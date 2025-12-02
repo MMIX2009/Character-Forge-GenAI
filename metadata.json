@@ -1,0 +1,5 @@
+{
+  "name": "Character Forge GenAI",
+  "description": "A professional character consistency engine using Gemini 3 Pro (Nano Banana Pro) to generate high-fidelity images across varying scenes and camera angles.",
+  "requestFramePermissions": []
+}
